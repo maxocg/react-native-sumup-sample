@@ -1,1 +1,1 @@
-# react-native-sumup-sample
+# react-native-sumup

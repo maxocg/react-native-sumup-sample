@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.sumup:adyen-lib-2.4.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b9cd12106adf03421fc43347a103e29990740c21/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9cd12106adf03421fc43347a103e29990740c21/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
